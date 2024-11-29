@@ -4,9 +4,9 @@ This repo is to document high-level business processes, capture onboarding steps
 
 ## Links
 
-[Onboarding](documentation/onboarding.md)
-[Code Quality](documentation/code-quality.md)
-[Learning](documentation/learning.md)
+[Onboarding](/documentation/onboarding.md)
+[Code Quality](/documentation/code-quality.md)
+[Learning](/documentation/learning.md)
 
 ## Templates
 
