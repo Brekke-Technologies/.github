@@ -13,19 +13,20 @@ Brekke Technologies assists small to mid-sized companies in integrating their E-
 - [Branch off issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-a-branch-for-an-issue)
 - [Testing Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
+
 ## ⚙️ Operations
 
 ### Planned Meetings
 #### Issue Planning
-This begins as soon as a contract is signed for a project. The project should be created within Gtihub titled the project with a descirption that aligns with the project. As an entire team we walk through the business requirements outlined in the contract and develop high-level issues. Individually we will go through each issue and outline the descirption and acceptance criteria. A point estimate is assigned to the issue. The issues are then slotted to an iteration.
+Issue planning starts as soon as a contract is signed for a project. The project should be created within GitHub, titled appropriately, with a description that aligns with the project. The entire team will walk through the business requirements outlined in the contract and develop high-level issues. Each issue will be individually detailed with a description and acceptance criteria, and assigned a point estimate. The issues are then slotted into an iteration.
 #### Weekly Recap
-This meeting is performed weekly to check the high-level status of a project, discuss any blockers, and discuss any updates to the timeline for our customers.
+This weekly meeting checks the high-level status of a project, discusses any blockers, and updates the timeline for our customers.
 
 ### Communication
-Using the discussion within the issue and MR's, any information about blockers, questions about the issues, and suggestions to the code. This provides a seamless discussion experience that focuses on flexiblity while minimizing meetings. Communication should be kept as close to Github as possible instead of IM or Email.
+Communication should be conducted within the issue and merge request discussions. This includes information about blockers, questions about the issues, and code suggestions. This approach provides a seamless discussion experience that focuses on flexibility while minimizing meetings. Communication should be kept as close to GitHub as possible, instead of using IM or email.
 
 ### Engineer Workflow
-As soon as a project begins each engineer should review the entirity of the project and understand the priority and work required. If this is not clear, questions should be asked within the discussion of the issue. The engineer should assign themeselves to the first of the prioritized issues and begin work. If there is a need to split up, add, or udpate an issue, a discussion with the PO should happen preferrably through the issue discussion.
+At the start of a project, each engineer should review the entire project to understand the priorities and required work. If anything is unclear, questions should be asked within the issue discussion. Engineers should assign themselves to the first prioritized issue and begin work. If there is a need to split up, add, or update an issue, a discussion with the PO should occur, preferably through the issue discussion.
 
 ## 📚 Learn
 
