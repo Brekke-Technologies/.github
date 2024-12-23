@@ -1,6 +1,6 @@
 # Pinnacle Software Solutions
 
-innacle Software Solutions assists small to mid-sized companies in integrating their E-commerce platforms with other systems, creating a seamless and automated workflow that allows businesses to concentrate on their products instead of their systems.
+Pinnacle Software Solutions assists small to mid-sized companies in integrating their E-commerce platforms with other systems, creating a seamless and automated workflow that allows businesses to concentrate on their products instead of their systems.
 
 ## 🚀 Tooling
 - [VSCode](https://code.visualstudio.com)
